@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://mycncart.com:10080/');
 define('DIR_APPLICATION', '/work/d/code/mycncart/admin/');
 define('DIR_SYSTEM', '/work/d/code/mycncart/system/');
 define('DIR_IMAGE', '/work/d/code/mycncart/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', '/work/d/code/mycncart_storage/');
 define('DIR_CATALOG', '/work/d/code/mycncart/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
